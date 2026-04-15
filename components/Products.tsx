@@ -5,7 +5,6 @@ import {
   Shield,
   ShoppingBasket,
   Smartphone,
-  Wind,
 } from "lucide-react";
 
 import { bikes, motos } from "@/lib/products";
